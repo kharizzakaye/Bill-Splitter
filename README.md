@@ -1,2 +1,2 @@
 # Bill-Splitter
-A simple bil splitter app built with AngularJS.
+A bill splitter app created with AngularJS.
